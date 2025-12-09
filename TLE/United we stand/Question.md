@@ -1,0 +1,1 @@
+[Question](https://codeforces.com/contest/1859/problem/A)
